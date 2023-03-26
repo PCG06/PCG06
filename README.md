@@ -1,8 +1,11 @@
-### **Hello there** 👋
+### **Hello there!** 👋
 
 I am PCG.
-I'm a beginner programmer.
-Currently just a hobby.
+
+I like Pokémon and gaming.
+
+Working a Pokémon ROM hack of my own with my friends! :D
+
 (will update later with more info)
 
 ## **Repositories**
