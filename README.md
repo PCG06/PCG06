@@ -1,16 +1,21 @@
-### Hi there 👋
+### **Hello there** 👋
 
-<!--
-**PCG06/PCG06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am PCG.
+I'm a beginner programmer.
+Currently just a hobby.
+(will update later with more info)
 
-Here are some ideas to get you started:
+## **Repositories**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[pokeemerald](https://github.com/PCG06/pokeaurora)
+
+
+## **My Socials**
+
+[Twitter](https://twitter.com/PCG006)
+
+[Instagram](https://instagram.com/PCG006)
+
+[Discord](https://discord.gg/ZVGXjBNKXM)
+
+## **End**
