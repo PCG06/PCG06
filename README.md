@@ -10,7 +10,7 @@ Working a Pokémon ROM hack of my own with my friends! :D
 
 ## **Repositories**
 
-[pokeemerald](https://github.com/PCG06/pokeaurora)
+[pokeaurora](https://github.com/PCG06/pokeaurora) (gonna remane it later lol)
 
 
 ## **My Socials**
