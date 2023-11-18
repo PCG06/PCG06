@@ -1,24 +1,15 @@
-### **Hello there!** 👋
+## **Hello there!** 👋
 
 I am PCG.
 
 I like Pokémon and gaming.
 
-Working a Pokémon ROM hack of my own with my friends! :D
-
-(will update later with more info)
-
-## **Repositories**
-
-[pokeemerald](https://github.com/PCG06/pokeaurora) (gonna rename it later lol)
-
+A big comic book movies and TV shows fanboy!
 
 ## **My Socials**
 
 [Twitter](https://twitter.com/PCG006)
 
-[Instagram](https://instagram.com/PCG006)
+[Instagram](https://instagram.com/PCG06)
 
-[Discord](https://discord.gg/ZVGXjBNKXM)
-
-## **End**
+[Discord](https://discord.gg/zCNUYuK72u)
