@@ -8,7 +8,7 @@ A big comic book movies and TV shows fanboy!
 
 ## **My Socials**
 
-[Twitter](https://twitter.com/PCG006)
+[Twitter/X](https://x.com/PCG006)
 
 [Instagram](https://instagram.com/PCG06)
 
