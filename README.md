@@ -4,12 +4,14 @@ I am PCG.
 
 I like Pokémon and gaming.
 
-A big comic book movies and TV shows fanboy!
+Also a big fan of movies and TV shows.
 
-## **My Socials**
+Currently doing my Bachelors in Computer Applications.
 
-[Twitter/X](https://x.com/PCG006)
+## **Contact me!**
 
-[Instagram](https://instagram.com/PCG06)
+❌ [Twitter/X](https://x.com/PCG006)
 
-[Discord](https://discord.gg/zCNUYuK72u)
+📸 [Instagram](https://instagram.com/PCG06)
+
+👽 [Discord](https://discord.gg/zCNUYuK72u)
